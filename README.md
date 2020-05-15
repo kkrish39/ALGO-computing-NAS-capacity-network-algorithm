@@ -4,7 +4,7 @@ Finding the capacity of the National Airspace System of the United States using 
 # About the Code Repository:
 - The project is developed as a Java Maven project in IntelliJ IDE.
 - To execute, change relative path according to your machine in “NetworkFlowData.java”
-file.
+file at line number 39.
 - The dataset is in resources folder of the project. I’ve also added a copy of a dataset
 outside of the project folder reference.
 - ComputeNASCapacity.java is the main file from where code needs to be executed.
