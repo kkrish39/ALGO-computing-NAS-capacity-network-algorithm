@@ -36,7 +36,7 @@ public class NetworkFlowData {
         /*
         Relative path according to the machine from where we run.
          */
-        relativePath="/Users/keerthivasankrishnamurthy/IdeaProjects/";
+        relativePath="";
         initItineraryList();
         initAirBusCapacity();
     }
